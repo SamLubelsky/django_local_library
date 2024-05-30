@@ -158,4 +158,4 @@ STORAGES = {
     },
 }
 
-CSRF_TRUSTED_ORIGINS = ['web-production-ee51.up.railway.app']
+CSRF_TRUSTED_ORIGINS = ['https://web-production-ee51.up.railway.app']
